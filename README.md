@@ -19,6 +19,15 @@ I learned valuable lessons while creating and improving the project and faced se
 
 Developing and enhancing the Control Your Inventory application has allowed me to apply my computer science skills in the real world. It has strengthened my software development, database management, and user interface design abilities, making it a valuable addition to my ePortfolio.
 
+The original source code for the Control Your Inventory application can be found at the following link
+
+https://github.com/bdpetersen13/Control-Your-Inventory
+
+Before beginning any of the enhancements, a code review was performed. The code review can be found at the following link
+
+https://youtu.be/3B4SoZwcbQs
+
+
 # Empowering Academic Advisors
 
 To enhance the artifact, I implemented several significant improvements to the codebase. The major enhancement focused on modularization, where I divided the code into smaller, more manageable functions. This reorganization significantly improved the code's readability, maintainability, and overall structure. In addition, I addressed the presence of magic numbers by replacing them with named constants, resulting in more understandable and maintainable code. Another area of improvement was error handling. I introduced exception handling to manage errors during file operations and CSV parsing. This enhancement improved error reporting and ensured the application could handle various CSV file formats correctly.
@@ -31,6 +40,13 @@ Throughout the process of enhancing and modifying the artifact, I have gained va
 
 Overall, enhancing and modifying the artifact has been an invaluable learning experience. It has reinforced my software development skills and expanded my understanding of best practices in the field. Through this process, I have acquired the ability to deliver high-quality code and further honed my software developer skills.
 
+The original source code for the Empowering Academic Advisors can be found at the following link
+
+https://github.com/bdpetersen13/Course-Advisor-Sorting-Algorithm
+
+Before beginning any of the enhancements, a code review was performed. The code review can be found at the following link
+
+https://www.youtube.com/watch?v=aqHFNFuB694
 
 
 # Rescue Rover Dashboard
@@ -39,6 +55,11 @@ There were numerous improvements made to the artifact's codebase. The upgrades s
 
 I learned the importance of code organization, modularization, and following best practices in software development. I gained experience in incorporating error handling and logging mechanisms to improve the robustness and maintainability of the code. I also faced challenges ensuring consistency and adhering to naming conventions while making the code more modular. However, the challenges were overcome through iterative improvements and careful consideration, resulting in a more polished and professional artifact.
 
+The original source code for the Rescue Rover Dashboard can be found at the following link
 
+https://github.com/bdpetersen13/Rescue-Rover
 
+Before beginning any of the enhancements, a code review was performed. The code review can be found at the following link
+
+https://youtu.be/ncq8SrO0sf8
 
